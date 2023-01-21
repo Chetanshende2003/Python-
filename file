@@ -1,0 +1,4 @@
+#open file
+f = open("sample.txt", "x")
+#close file
+f.close
